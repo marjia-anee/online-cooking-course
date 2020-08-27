@@ -89,6 +89,30 @@ var items = [
         price: 21.99,
         image: 'https://media.istockphoto.com/photos/hes-got-a-special-cooking-skill-picture-id948116034?b=1&k=6&m=948116034&s=170667a&w=0&h=Ph9j2c-tHeQ1BkU-GYq8pR2wB004NNy3Z_RRRy5I7kE='
     },
+    {
+        name: 'Herbalism : Kitchen Herbs & Spices as Effective Medicine',
+        instructor: 'Viorel Copolovici',
+        rating: '4.5',
+        price: 11.99,
+        image: 'https://www.vitacost.com/blog/wp-content/uploads/2018/12/Herbalism-for-Beginners-5-Herbs-to-Get-You-Started.jpg'
+    },
+    {
+        name: 'Wild Foods : Identify, Harvest and Prepare Edible Plants',
+        instructor: 'Elizabeth Heck',
+        rating: '4.9',
+        price: 21.99,
+        image: 'https://img-a.udemycdn.com/course/480x270/1195252_1b91_2.jpg'
+    },
+    {
+        name: 'Smart Kitchen Tool Hacks Package',
+        instructor: 'Fahmida Viola',
+        rating: '4.5',
+        price: 9.99,
+        image: 'https://www.safewise.com/app/uploads/featured-image-how-build-smart-kitchen.jpg'
+    },
+
+
+
 
     
 ];
