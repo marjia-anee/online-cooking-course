@@ -1,9 +1,12 @@
 .header{
     text-align: center;
 }
+.header img{
+    height: 80px;
+}
 .header nav{
-    background-color: black;
-    line-height: 40px;
+    background-color:rgb(23, 110, 139);
+    line-height: 50px;
     font-size: 20px;
 }
 nav a{
@@ -13,5 +16,5 @@ nav a{
     padding: 5px;
 }
 nav a:hover{
-    background-color: gray;
+    background-color: rgb(73, 170, 141);
 }

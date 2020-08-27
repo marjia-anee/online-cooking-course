@@ -3,13 +3,21 @@
     width: 500px;
 }
 .product{
+    display: flex;
     border-bottom: 1px solid lightblue;
-    margin-bottom:5px;
+    margin-bottom: 5px;
     margin-right: 10px;
-    padding-bottom: 5px;
-    padding-top:30px;
+    padding-bottom: 40px;
+    padding-top:40px;
 }
 .product h4{
     color: red;
     font-weight: 500;
+}
+.product-info{
+    margin-left: 30px;
+}
+
+.btn{
+    cursor: pointer;
 }
